@@ -1,0 +1,4 @@
+name: php-sandbox
+recipe: lemp
+config:
+  webroot: .
